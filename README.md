@@ -1,32 +1,109 @@
-Algorithm Visualizer
-Welcome to the Algorithm Visualizer — an interactive web project that visually demonstrates sorting and searching algorithms in a fun and engaging way!
+# 🚀 Algorithm Visualizer
 
-📸 Project Overview
-The Algorithm Visualizer features:
+An interactive web application that demonstrates **sorting** and **searching** algorithms through animations. Built using **HTML**, **CSS**, and **JavaScript**, this project makes understanding algorithms fun, engaging, and visual.
 
-A dynamic video background with animated overlays.
+---
 
-Light/Dark mode toggle for a better visual experience.
+## 🌟 Features
 
-A sidebar navigation menu to explore:
+- 🌑 **Light/Dark Mode Toggle**  
+  Switch between light and dark themes for a better viewing experience.
 
-Home
+- 🎬 **Animated Background**  
+  Beautiful looping video background with a transparent mask overlay.
 
-Sorting Visualizer
+- 🧭 **Interactive Sidebar Navigation**  
+  Quickly navigate to Sorting Visualizer, Searching Visualizer, and Project Info pages.
 
-Searching Visualizer
+- 📱 **Responsive Design**  
+  Optimized for desktops, tablets, and mobile devices.
 
-Project Info
+- 🔎 **Algorithm Visualizations**  
+  Step-by-step animations for sorting and searching algorithms.
 
-Built with pure HTML, CSS, and JavaScript, this project provides a simple and intuitive platform for students and enthusiasts to understand how algorithms work visually.
 
-🚀 Features
-✨ Smooth theme toggling (Dark/Light mode)
+---
 
-📽️ Animated video background with overlay text
+## 🚀 Getting Started
 
-🧭 Sidebar for easy navigation
+### Prerequisites
 
-🔎 Sorting and Searching algorithm visualizations
+- A modern web browser (Chrome, Firefox, Edge, Safari)
 
-📄 Separate pages for Project Info, Sorting, and Searching
+### Run Locally
+
+1. **Clone** the repository:
+    ```bash
+    git clone https://github.com/your-username/algorithm-visualizer.git
+    ```
+
+2. **Navigate** into the project directory:
+    ```bash
+    cd algorithm-visualizer
+    ```
+
+3. **Open** the `index.html` file in your web browser.
+
+> ✅ No installation, server, or additional setup required!
+
+---
+
+## 🛠️ Built With
+
+- **HTML5** — for the structure
+- **CSS3** — for styling and animations
+- **JavaScript (ES6)** — for interactivity
+- **[Ionicons](https://ionic.io/ionicons)** — for icons (menu, theme toggles)
+
+---
+
+## 📖 Pages Included
+
+- **Home Page** (`index.html`)  
+  ➔ Introduction with video background and animated text.
+
+- **Sorting Visualizer** (`src/Sorting/sorting.html`)  
+  ➔ Visual demonstrations of various sorting algorithms.
+
+- **Searching Visualizer** (`src/Searching/searching.html`)  
+  ➔ Visual demonstrations of different searching techniques.
+
+- **Project Info** (`src/About/about.html`)  
+  ➔ Information about the project, features, and goals.
+
+---
+
+## 🎯 Project Goals
+
+- Make learning algorithms **visual and interactive**.
+- Help beginners and students **grasp concepts quickly**.
+- Showcase how **simple web technologies** can build powerful educational tools.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share it for personal and educational purposes.
+
+---
+
+## ✨ Acknowledgments
+
+- Developed for the **CSE 2100** course project.
+- Thanks to open-source libraries and web design inspirations.
+- Special thanks to everyone who inspired the concept of algorithm visualization.
+
+---
+
+## 📬 Contact
+
+If you have any feedback, suggestions, or want to contribute, feel free to reach out!
+
+---
+
+# 🎉 Thank You for Visiting!
+
+
+
+
