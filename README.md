@@ -22,8 +22,6 @@ An interactive web application that demonstrates **sorting** and **searching** a
   Step-by-step animations for sorting and searching algorithms.
 
 
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -34,7 +32,7 @@ An interactive web application that demonstrates **sorting** and **searching** a
 
 1. **Clone** the repository:
     ```bash
-    git clone https://github.com/your-username/algorithm-visualizer.git
+    git clone https://github.com/abdulmominmooncse/algorithm-visualizer.git
     ```
 
 2. **Navigate** into the project directory:
@@ -46,7 +44,7 @@ An interactive web application that demonstrates **sorting** and **searching** a
 
 > ✅ No installation, server, or additional setup required!
 
----
+
 
 ## 🛠️ Built With
 
@@ -55,7 +53,7 @@ An interactive web application that demonstrates **sorting** and **searching** a
 - **JavaScript (ES6)** — for interactivity
 - **[Ionicons](https://ionic.io/ionicons)** — for icons (menu, theme toggles)
 
----
+
 
 ## 📖 Pages Included
 
@@ -71,7 +69,6 @@ An interactive web application that demonstrates **sorting** and **searching** a
 - **Project Info** (`src/About/about.html`)  
   ➔ Information about the project, features, and goals.
 
----
 
 ## 🎯 Project Goals
 
@@ -79,30 +76,6 @@ An interactive web application that demonstrates **sorting** and **searching** a
 - Help beginners and students **grasp concepts quickly**.
 - Showcase how **simple web technologies** can build powerful educational tools.
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).  
-Feel free to use, modify, and share it for personal and educational purposes.
-
----
-
-## ✨ Acknowledgments
-
-- Developed for the **CSE 2100** course project.
-- Thanks to open-source libraries and web design inspirations.
-- Special thanks to everyone who inspired the concept of algorithm visualization.
-
----
-
-## 📬 Contact
-
-If you have any feedback, suggestions, or want to contribute, feel free to reach out!
-
----
-
-# 🎉 Thank You for Visiting!
 
 
 
